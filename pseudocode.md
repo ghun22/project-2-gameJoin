@@ -9,7 +9,7 @@
 
 **backend
     ID (created by user)
-    post(also created by user)
+    post(also created by user)  
     create timestemp
     delete post that are old.
     post sort by time and by games.
